@@ -5,7 +5,7 @@
 
 // AI 摘要脚本配置（供离线脚本读取）：
 // [AI_SUMMARY_API] 摘要服务地址
-// AI_SUMMARY_API=https://aisummary.ljx.icu/api/spark-proxy
+// AI_SUMMARY_API=your-aisummary-api
 
 // [AI_SUMMARY_KEY] 摘要服务密钥
 // AI_SUMMARY_KEY=your-api-key
